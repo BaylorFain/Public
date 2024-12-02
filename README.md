@@ -1,3 +1,3 @@
 # Public
 
-![Alt](test.evg)
+![Alt](test.svg)
