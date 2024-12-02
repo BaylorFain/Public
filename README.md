@@ -1,3 +1,1 @@
 # Public
-
-![Alt](test.svg)
